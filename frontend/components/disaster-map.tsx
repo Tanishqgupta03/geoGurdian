@@ -123,7 +123,7 @@ declare global {
     google: any
   }
 }
-
+//
 export function DisasterMap({
   disasters,
   selectedCategory,
