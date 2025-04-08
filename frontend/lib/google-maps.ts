@@ -7,5 +7,5 @@ export const GOOGLE_MAPS_CONFIG: LoadScriptProps = {
   version: 'weekly',
   language: 'en',
   region: 'US',
-  libraries: ['marker', 'geocoding'],
+  libraries: ['marker', 'geocoding', 'places'],
 }

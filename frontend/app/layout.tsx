@@ -10,12 +10,12 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  title: 'Earth Lens | Emergency Response System & Disaster Visualization',
+  title: 'GeoGuardian | Emergency Response System & Disaster Visualization',
   description:
     'Real-time emergency response management system for coordinating fire, ambulance, and police services. Monitor and respond to emergency calls with live tracking and incident management.',
   keywords:
     'emergency response, dispatch system, emergency management, first responders, emergency services, incident tracking',
-  authors: [{ name: 'Earth Lens Team' }],
+  authors: [{ name: 'GeoGuardian Team' }],
   robots: {
     index: false,
     follow: false,

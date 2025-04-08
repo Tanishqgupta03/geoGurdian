@@ -13,7 +13,7 @@ export function Header() {
           href="/"
           className="font-mono text-sm text-primary hover:text-primary/70 transition-colors"
         >
-          earth-lens
+          GeoGuardian
         </Link>
         <nav className="flex gap-4 text-xs">
           <Link
